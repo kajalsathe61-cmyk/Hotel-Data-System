@@ -69,7 +69,7 @@ This project demonstrates strong use of SQL fundamentals, including:
 * Find customer and service-related insights
 * Generate reports using SQL queries
 
----
+
 
 ## ▶️ How to Run the Project
 
@@ -78,27 +78,8 @@ This project demonstrates strong use of SQL fundamentals, including:
 3. Import or run the SQL script file
 4. Execute queries to view and manage data
 
----
 
-## 📁 Project Structure
-
-```
-Hotel-Management-Database-System/
-│
-├── database.sql        # SQL script for creating tables and queries
-├── README.md           # Project documentation
-```
-
----
-
-## 🚀 Future Enhancements
-
-* Add a **user interface (UI)** using a frontend tool
-* Integrate with **Power BI** for data visualization
-* Implement **stored procedures and triggers**
-* Add authentication for secure access
-
----
+<img width="1248" height="731" alt="image" src="https://github.com/user-attachments/assets/fc4a9277-99ce-4e79-8db2-46b9dc9789da" />
 
 ## 👩‍💻 Author
 
